@@ -456,7 +456,7 @@
             opacity: 0;
             transform: translateY(30px);
             animation: fadeInUp 0.8s ease 0.4s forwards;
-            font: sans-serif;
+            font-family: "Open Sans", Roboto, sans-serif;
         }
 
         .faq h2 {
@@ -560,6 +560,10 @@
             color: var(--primary-purple);
             text-decoration: none;
             font-weight: bold;
+        }
+
+        .contact-item h3{
+            color: black;
         }
 
         /* Footer */
