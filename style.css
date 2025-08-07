@@ -113,6 +113,7 @@
             gap: 1rem;
             padding-top: 2rem;
             border-top: 1px solid rgba(255,255,255,0.2);
+            margin-bottom: 80px;
         }
 
         .side-menu-contacts a {
@@ -455,9 +456,11 @@
             opacity: 0;
             transform: translateY(30px);
             animation: fadeInUp 0.8s ease 0.4s forwards;
+            font: sans-serif;
         }
 
         .faq h2 {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
             text-align: center;
             font-size: 2rem;
             color: var(--primary-purple);
