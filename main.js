@@ -11,7 +11,7 @@
             { id: 9, name: "Cake Parfait", price: "₦4,500", category: "desserts", image: "/images/product6.webp" },
             { id: 10, name: "Cinnamon Rolls", price: "₦3,000", category: "desserts", image: "./images/product8.webp"},
             { id: 11, name: "Plain Cupcakes", price: "₦15,000", category: "cupcakes", image: "./images/product10.webp"},
-            { id: 12, name: '6 inches cake', price: "₦25,00", category: "cakes", image: "./images/product14.webp"},
+            { id: 12, name: '6 inches cake', price: "₦25,000", category: "cakes", image: "./images/product14.webp"},
             { id: 13, name: '6 inches Cake', price: "₦25,000", category: "cakes", image: "./images/product12.webp" },
             { id: 14, name: "Tea Cake", price: "₦5,000", category: "desserts", image: "./images/product11.webp" }
         ];
