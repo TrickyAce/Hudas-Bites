@@ -574,6 +574,7 @@
             padding: 2rem;
         }
         .footer a{
+            color:white;
             text-decoration: underline blue 2px;
         }
 
