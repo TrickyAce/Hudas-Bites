@@ -53,7 +53,7 @@
                     <div class="product-image" style="background-image: url('${product.image}'); background-size: cover; background-position: center;"></div>
                     <div class="product-name">${product.name}</div>
                     <div class="product-price">${product.price}</div>
-                    <a href="https://wa.me/2348169799898?text=Hi, I'm interested in ordering ${product.name} from your website!" 
+                    <a href="https://wa.me/2348120822148?text=Hi, I'm interested in ordering ${product.name} from your website!" 
                        class="whatsapp-btn" target="_blank">
                         <i class="fab fa-whatsapp"></i> Order Now
                     </a>
